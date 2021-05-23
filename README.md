@@ -30,3 +30,7 @@ Here is a basic To-Do List Application which is an application to organize your 
 
 ## Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Screenshots
+<p align="center"><img width="800px" src="screenshots/Light Mode.PNG"></p>
+<p align="center"><img width="800px" src="screenshots/Dark Mode.PNG "></p>
